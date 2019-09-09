@@ -1,17 +1,17 @@
 # Interview-Question-Behavioral
 # Collection for behavioral interview question 
 
-##Amazon
-###Be professional
+## Amazon
+### Be professional
 it’s a pleasure to be here and I am very excited about this opportunity.
 Thank you for giving me the opportunity to interview today.
 I am very exited to have the opportunity to be interviewed here in Amazon.
-###Show your curiosity
+### Show your curiosity
 research the company before interview
 come up with two or three reasons you want to work for the company
 mission statement, product and service information, principles’s backgrounds
 check company financials through US securities and Exchange commision
-###Know your stuff
+### Know your stuff
 use STAR
 situation
 task
@@ -19,7 +19,7 @@ action
 results
 Leadership principles
 
-###Amazon
+### Amazon
 Top Internet Retailing Company
 Our vision is to be earth’s most customer-centric company; to build a place where people can come to find and discover anything they might want to buy online
 product lines
@@ -31,44 +31,45 @@ media
 use independent, third-party shippers
 
 
-###situations
+### situations
 news recommendation service
 collaborative feature with code editor
 email communication improvement
 Hubert three way matching
 news prediction service
 code executing service
-###Why Amazon?
+
+### Why Amazon?
 Amazon is a top internet retailing company with a strong focus on customer experience and obsession. Its motto- work hard, have fun, make history, and it’s vision, earth’s most customer centric company, inspires me. I’m a person who respect hard working and care a lot about customer experience, so the culture of Amazon attracts me a lot. Furthermore, the growth of this company is pretty impressive, it’s not only an online retail shop but also has a wide range of products like Alexa, Kindle, fire tablet and TV, Amazon cloud service, etc. Hundreds of thousands of talented engineers are working passionately here, building innovative system and solving problems at unprecedented scale. Therefore, this is a place where I can learn a lot, and use my skills and experience to make things happen with a team. 
 
-###Why choose this position?
+### Why choose this position?
 The job I have applied is the software development position in Amazon Books, I am interested in this position because:  
 First of all, Amazon Books uses innovative technology to merge physical and online worlds into one unique and delightful shopping experience. The concept is really cool and pioneering. I am really excited about learning and using new technologies to create new exceptional experiences that firmly obsess customers.
 Secondly, I’d like to work with solutions from a full-stack point of view, by engaging with requirements, frontend, middle tier, backend, storage, and all the other stuff, I can understand problems and solutions thoroughly, and thus scale and optimize them with the best practices. 
 Thirdly, I’m happy to work in an environment with a lot of challenges so that I’ll never be boring. In Amazon, I can take ownership of the projects I am truly passionate about. I am sure I can take the challenges and provide successful solutions. 
 
-###Introduce yourself
+### Introduce yourself
 - My name is X. I’ve been working on software design and development related work for past two years. My experience includes communicating and analyzing user requirements, authoring functional requirement documentation and workflows, building wireframes and interactive prototypes, and then helping implement web applications within a team. The web applications I helped design and develop all meet to user needs very well and also have great user experiences and elegant UIs. The modules and features I’ve developed includes document metadata and status management, news tag prediction and recommendation, online collaborative coding platform, etc. I’m especially passionate about working on solutions from a full-stack standpoint, because by understanding user requirements as well as overall system architecture thoroughly, I can deliver products with both great performance and easy-to-use experience. I am also happy to learn new technologies and incorporate them with what I’ve been doing. Keeping learning and being curious always refreshes my mind with better designs and solutions. 
 
 
-###The biggest mistake you made and what did you learn from it?  (earn trust, customer obsession)
+### The biggest mistake you made and what did you learn from it?  (earn trust, customer obsession)
 The biggest mistake I’ve made happened when I took on and led a project for the first time. I got a requirement from the client about updating parts of a certain workflow. So I documented the requirements, worked on them with the team, and released the update to the demo system on time, however, the client tried and didn’t like it.
 We diagnosed the feedback and system immediately, It turned out that we paid a lot of attention on the changes the client requested us to do, but didn’t do much evaluation on other features that are impacted by the change.
 I apologized to the client immediately and asked if we could have an extended deliver date. Luckily the client agreed and also showed understanding. Then I called a meeting with all the team members, talked about the feedback, then we walked through the whole workflow step by step together, evaluated all the possible operations that user might take on each step and then tailored the change we were gonna make accordingly. Throughout this process, the team members understood what happened, why the client was not happy, and they also brought up a lot of good opinions. Instead of just telling the team to make changes again, I earned their trust by sharing the feedback with them and working out a solution together.
 We then released a tentative version to the demo system before the deadline, walked through it with the client and collected feedback provided. Finally, we delivered the update to the production successfully, our client was very happy and used it every day without any trouble yet.
 
 
-###Most challenging project?
+### Most challenging project?
 The most challenging project I’ve done was an online collaborative coding platform, it’s like Leetcode but with collaborative feature. The most challenging part was to incorporate collaborative features with the code editor, that is, user in a same coding room can see the real-time cursor movements and typing actions of the other users.
 It was challenging because I was supposed to come up with the solution and implement it by myself, and I have never developed something like this before.
 So I started with composing a visual solution first, the work I’ve done included researching online collaborative products, listing core features I needed, building wireframes, and designing UI. With the visual solution, I had a good understanding on how the application would work. Then, I googled and read a lot of system design solutions for products with similar features, like Google doc, online chatting room, etc. With what I’ve read, I was able to draft out my own solutions and selected corresponding technologies.
 I implemented it successfully within the given time, and my solution received a positive feedback because it is not only working well, but also visually pleasing. Throughout this process, I learned that it is important to be curious and keep learning, try to read as many technical blogs or articles as you can, the more you read, the better you’ll ace a problem or design. The feeling of ownership is very important, some other students just gave up with the excuse “I don’t how to do it"
 
-###Couldn’t finish tasks before deadline? 
+### Couldn’t finish tasks before deadline? 
 deliver result, ownership
 
 
-###CUSTOMER OBSESSION: Walk us through a time when you helped a customer through a difficult process and what that looked like.
+### CUSTOMER OBSESSION: Walk us through a time when you helped a customer through a difficult process and what that looked like.
 leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers.
 case 1
 Last year in Telamon, I took on and led a project of developing a web application for our Telecom engineering team, in order to help engineers build and manage detail specifications easily for their Telecom installation jobs. The detail specification building process was sort of complex, involving a lot of data entry and field data collection, and the requirement documentation provided to us was brief and totally in text description.
@@ -82,7 +83,7 @@ I first created a shared matrix and recorded all the invoices and instructions p
 After several weeks of running the service, I scheduled a meeting with the client and reviewed the matrix with them, they were impressed by it. And they even used the matrix as the instructions on their side. After a month or two, we barely got any email about incorrectly processed invoices from the client. We obsessed our client with our great quality and attitude to insist on the highest standards.
 
 
-###OWNERSHIP: Give me a example of when you took a risk and it failed.
+### OWNERSHIP: Give me a example of when you took a risk and it failed.
 leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “That’s not my job”.
 case 1
 I’d like to talk about one of my project at BitTiger. BitTiger had a bootcamp course for project managers and I was hired as the lead developer to help implement the idea driven by the project managers teamed with me.
@@ -94,7 +95,7 @@ the communication feature is not easy to use, only remind the client you receive
 I took the ownership to support this project, I designed a new process by delivering the content to the kitchen designer and bring it to the client to discuss. the client agreed. After deliver, our customer support team has reduced around 70% support request for this project.
 
 
-###INVENT AND SIMPLIFY: Tell me a time when you created an innovative product.
+### INVENT AND SIMPLIFY: Tell me a time when you created an innovative product.
 Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by "not invented here". As we do new things, we accept that we may be misunderstood for long periods of time.
 case 1
 question board, BitTiger need to manager a lot of things, like notification, link to the live course, questions, communication. We are overwhelmed at the first about inventing the process, thinking about a lot of ideas like group by different tabs, create with different categories. But I decided to keep it simple and stupid, we create the post for all purpose, but group it by weeks. All important notification on the top.
@@ -106,7 +107,7 @@ With the simplified process, we don’t have spend money and time dealing with f
 
 
 
-###ARE RIGHT, A LOT: Tell me about a time when you observed two business opportunities to improve ROI, and how did you determine that they were connected.
+### ARE RIGHT, A LOT: Tell me about a time when you observed two business opportunities to improve ROI, and how did you determine that they were connected.
 Leaders are right a lot, they have strong judgment and  good instincts. They seek diverse perspective and work to disconfirm their beliefs.
 tell me about a time when you are wrong
 tell me about a time when you had to work with incomplete data or information
@@ -118,7 +119,7 @@ once I argue with the manager about issue the corporate email, I want to registe
 
 
 
-###LEARN AND BE CURIOUS: How do you find the time to stay inspired, acquire new knowledge, innovate in your work?
+### LEARN AND BE CURIOUS: How do you find the time to stay inspired, acquire new knowledge, innovate in your work?
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act on explore them.
 case 1
 I recently learned how Redux architecture and how it work
@@ -128,7 +129,7 @@ how large company deploy their front-end
 how to cache
 
 
-###HIRE AND DEVELOP THE BEST: Tell me about a time when you had to deal with a poor performer on your team.
+### HIRE AND DEVELOP THE BEST: Tell me about a time when you had to deal with a poor performer on your team.
 Leaders raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop leaders and take seriously their in coaching others. We work on behalf of out people to invent mechanisms for development like Career Choice.
 case 1
 for the data entry team in China, they didn’t care much about the system before. When I led the project, I will  invite them to join the meeting, tell them I we develop the system, teach them how to test and ask them to feel free to give me feedback if they any idea. they are the direct users of the system.
@@ -137,7 +138,7 @@ case 2
 When I transferring the projects from one person to another, I will co-work with them for a while, making sure the things they completely get the idea.
 
 
-###INSIST ON THE HIGHEST STANDARDS: Tell me about a time when you could have stopped working but persisted.
+### INSIST ON THE HIGHEST STANDARDS: Tell me about a time when you could have stopped working but persisted.
 Leaders have relentlessly high standards - many people may think these standards are unreasonably high. Leaders are continually raising the bar and driving their teams to deliver high quality products, services and processes. Leaders ensure that defects do not get sent down the line and that problems are fixed so they stay fixed.
 case 1
 hubert three way matching features, we have implemented the feature successfully. But I found the processor took long time to compare the amount of receipt, Purchase order, and invoice, calculate the tolerant percentage, identify any mismatches. I took the initiative to add exception handling features, instead of finding mismatches by eyes, I add a box to input and compare the amounts by the program.
@@ -147,7 +148,7 @@ client give us the ftp, and overwrite data everyday, sometimes if there is holid
 http://www.codejava.net/java-se/networking/ftp/java-ftp-file-download-tutorial-and-example
 
 
-###THINK BIG: Tell me about a time when you proposed a new business.
+### THINK BIG: Tell me about a time when you proposed a new business.
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 case 1
 augmented reality to find store
@@ -155,7 +156,7 @@ case 2
 ambient building
 
 
-###BIAS FOR ACTION: Describe how you would handle a busy situation where three people are waiting for help from you.
+### BIAS FOR ACTION: Describe how you would handle a busy situation where three people are waiting for help from you.
 Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 case 1
 the other engineer and I discussed for a couple hours, figured out what we disagreed on, and I suggested that neither answer was necessarily better. She agreed. I said that unless she had any new info, I’d rather we just pick mine, and we could always come back to the decision later if we learned something new.
@@ -164,7 +165,7 @@ case 2
 
 
 
-###FRUGALITY: Tell me about a time where you thought of a clever new way to save money for the company.
+### FRUGALITY: Tell me about a time where you thought of a clever new way to save money for the company.
 dd
 case 1
 for most of internal tools, we’ll google first instead of developing by ourself.
@@ -172,7 +173,7 @@ case 2
 USL, this project is a little hurry, we don’t have enough resources for that. Average of processing one load takes around 4.5min, and we watch all the steps, automatically whatever we can, and reduce the process time to 2 min finally.
 
 
-###EARN TRUST: Tell me a time when you earned trust of a group.
+### EARN TRUST: Tell me a time when you earned trust of a group.
 Leaders listen attentively, speak candidly, and treat others respectfully. They are vocally self-critical, even when doing so is awkward or embarrassing. Leaders do not believe their or their team’s body order smells of perfume. They benchmark themselves and their teams against the best.
 vocally self critical
 The biggest mistake I’ve made happened when I took on and led a project for the first time by myself. I got a requirement from the client about updating parts of a certain workflow. I listed the requirements, developed with the team, and released the update to the demo system on time, however, the client tried and didn’t like it.
@@ -180,7 +181,7 @@ I diagnosed the system immediately, It turned out that we paid a lot of attentio
 I apologized to the client immediately and asked if we could have an extended deliver date. Luckily the client agreed and also showed understanding. Then I called a meeting with the dev team, walked through the whole workflow step by step together, evaluated all the possible operations that user might take on each step and then tailored the change we were gonna make accordingly. We then released a tentative version to the demo system before the deadline , walked through it with the client, and collected any feedback provided.
 Finally, we delivered the update to the production successfully, our client was very happy and used it every day without any trouble yet.
 
-###DIVE DEEP: Tell me about a time when you had to dive deep into the data and the results you achieved.
+### DIVE DEEP: Tell me about a time when you had to dive deep into the data and the results you achieved.
 trust but verify
 you believe the person but check the facts anyway
 Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task beneath them.
@@ -188,7 +189,7 @@ case
 
 
 
-###HAVE BACKBONE, DISAGREE AND COMMIT : Tell me about the most difficult interaction you had at work.
+### HAVE BACKBONE, DISAGREE AND COMMIT : Tell me about the most difficult interaction you had at work.
 Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 disagree with boss?
 If I have different idea with my manager or boss, I will try to collect data or make a prototype trying to convince him. If I have tried my best and he still disagree, then I would respect his decision and start committing for that.
@@ -197,7 +198,7 @@ Therefore, I brought this problem up to my manager and suggested to register ano
 Finally, the manager was convinced and agreed on my suggestion. We barely have any missed emails after we switched our mailbox. And because of the good result, we started to use the domain for other projects gradually.
 
 
-###DELIVER RESULTS: Tell me about a time where you overcame an obstacle and delivered results.
+### DELIVER RESULTS: Tell me about a time where you overcame an obstacle and delivered results.
 leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 what you’d do after you realized you couldn’t hit the date?
 First, I’d check every possible way that could possibly make me hit the date, like using after-work time, weekends, or holidays, asking for help or suggestions, finding alternatives or simpler solutions, etc. Since I am the owner of the tasks, it’s my responsibility to deliver results on time. It’s my fault that I underestimated the workload when I took the tasks.
