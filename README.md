@@ -1,5 +1,5 @@
 # Interview-Question-Behavioral
-#Collection for behavioral interview question 
+# Collection for behavioral interview question 
 
 ##Amazon
 ###Be professional
