@@ -303,3 +303,4 @@ XXX
 - 如果是可行的小fix，或者team allocate多点resource可以解决的fix，会立刻根据customer的要求改变
 - 如果是大改变，可能会跟custom商量先给customer一个可用的东西，和一个满足customer需求的timeline.
 
+https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/bqbu-cuo-de-zong-jie.html
