@@ -7,6 +7,6 @@ thinkTech
 ## Timeline
 Application deadline sept 12
 1st round interview:recorded sept 16-20
-## AI
+## AI(toronto)
 Jenny Chen
 Stanley Yu
