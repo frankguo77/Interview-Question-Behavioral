@@ -1,4 +1,4 @@
-#BI developer interview(mainly on data visualization
+# BI developer interview(mainly on data visualization
 
 1.intro yourslef
 2.how to deal with a task you never face before
